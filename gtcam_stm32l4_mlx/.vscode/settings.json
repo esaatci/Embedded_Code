@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stm32_adafruit_sd.h": "c",
+        "ff_gen_drv.h": "c",
+        "cstdio": "c",
+        "*.tcc": "c"
+    }
+}
